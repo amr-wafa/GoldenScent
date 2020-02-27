@@ -1,7 +1,7 @@
 table 50100 "Magento Integration Setup"
 {
     Caption = 'Magento Integration Setup';
-    DataClassification = ToBeClassified;
+    DataClassification = CustomerContent;
 
     fields
     {
