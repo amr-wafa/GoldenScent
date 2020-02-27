@@ -9,6 +9,7 @@ table 50100 "Magento Integration Setup"
         {
             Caption = 'Primary Key';
             DataClassification = CustomerContent;
+            Editable = false;
             trigger OnValidate()
             begin
             end;
