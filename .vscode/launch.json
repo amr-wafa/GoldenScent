@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "GC_DEV",
+            "server": "http://localhost",
+            "serverInstance": "BC150",
+            "schemaUpdateMode": "Synchronize",
+            "authentication": "Windows",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "port": 7049
+        }, {
+            "type": "al",
+            "request": "launch",
+            "name": "GC_UAT",
+            "server": "http://localhost",
+            "serverInstance": "BC150",
+            "authentication": "Windows",
+            "schemaUpdateMode": "Synchronize",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "port": 7049
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="GoldenScent">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2323803918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Magento Integration Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Magento Integration Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2323803918 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Magento Integration Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2323803918 - Field 2994142618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Magento Integration Setup - Field Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2323803918 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Magento Integration Setup - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2323803918 - Field 4165234317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Url</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Magento Integration Setup - Field Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2323803918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Magento Integration Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Magento Integration Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2323803918 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Web Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Magento Integration Setup - Property AdditionalSearchTerms</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
