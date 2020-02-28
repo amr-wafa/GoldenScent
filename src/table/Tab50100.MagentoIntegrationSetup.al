@@ -30,6 +30,21 @@ table 50100 "Magento Integration Setup"
             Caption = 'Url';
             DataClassification = CustomerContent;
         }
+        field(50; "Enable Log"; Boolean)
+        {
+            DataClassification = CustomerContent;
+        }
+        field(60; "Log Directory"; Text[250])
+        {
+            DataClassification = CustomerContent;
+
+            trigger OnValidate()
+            begin
+                TestField("Enable Log");
+                if "Log Directory".EndsWith('\') then
+                    "Log Directory" := "Log Directory".TrimEnd('\');
+            end;
+        }
 
     }
     keys
